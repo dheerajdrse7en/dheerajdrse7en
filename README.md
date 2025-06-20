@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dheerajdrse7en
-- 👀 I’m interested in WEB,APP and Full Stack development
-- 🌱 I’m currently learning Javascript and Typescript for the same 
+- 👀 I’m interested in WEB,APP and Full Stack development 
 - 💞️ I’m looking to collaborate on projects which are on web and app development which has a unique idea and theme
 - 📫 You can reach me by my mail-id:dheerajdrse7en@gmail.com 
 
